@@ -12,7 +12,7 @@ import io.cucumber.testng.CucumberOptions;
     // plugin = {"pretty", "html:target/cucumber-reports"}
 	// plugin = {"pretty", "json:target/cucumber-reports/Cucumber.json"}
     // plugin = {"pretty", "json:target/cucumber-reports"}
-	plugin = {"pretty", "json:target/cucumber-reports-json/Cucumber.json"
+	plugin = {"pretty", "json:target/cucumber-reports-json/Cucumber.json"}
 )
 
 public class Lab1Runner extends AbstractTestNGCucumberTests{
